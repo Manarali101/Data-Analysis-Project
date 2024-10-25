@@ -18,7 +18,7 @@ Project Structure
 
 	•	Python 3.x, pandas, numpy, matplotlib, sklearn
 
-<h2>Names</h2>
+<h2>Team</h2>
 
 	•	Manar Ali Alsubhi
 	•	Jana Abdulraouf Allihyani
